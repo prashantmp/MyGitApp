@@ -10,4 +10,8 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
     public ApplicationTest() {
         super(Application.class);
     }
+    
+    public void init(){
+        //  Adding new method from GitHub
+    }
 }
